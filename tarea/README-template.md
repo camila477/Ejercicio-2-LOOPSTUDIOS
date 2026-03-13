@@ -9,8 +9,8 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 
 ### 🧩 Vista previa del proyecto
 Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
+<img width="548" height="1066" alt="image" src="https://github.com/user-attachments/assets/bd539c3d-47cd-4963-9c15-16a82f3522f3" />
 
-![Vista previa del proyecto](<img width="548" height="1066" alt="image" src="https://github.com/user-attachments/assets/e4f8d97b-27f9-4cb8-b353-35dc8fcfc747" />
 )
 
 ---
