@@ -17,7 +17,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/camila477/Ejercicio-2-LOOPSTUDIOS/tree/master
 - **Sitio desplegado (opcional):** https://ejercicio-2-loopstudios.vercel.app
 
 ---
